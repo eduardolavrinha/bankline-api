@@ -1,12 +1,11 @@
-# Read Me First
-The following was discovered as part of building this project:
+# Primeiramente, Leia-me
+Este é um projeto de Bootcamp Santander.
 
-* The original package name 'com.dio.santander.bankline-api' is invalid and this project uses 'com.dio.santander.banklineapi' instead.
+# Mãos à obra
+Aqui, eu aprendi a desenvolver o backend de uma API para utilizar no bootcamp, aonde podemos inserir novos correntistas e checar suas movimentações.
 
-# Getting Started
-
-### Reference Documentation
-For further reference, please consider the following sections:
+### O que utilizamos:
+Estas foram as ferramentas que foram usadas para auxiliar a criação da API:
 
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
 * [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.6.7/maven-plugin/reference/html/)
